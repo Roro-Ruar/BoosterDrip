@@ -1,2 +1,2 @@
 # BoosterDrip
-I always help people make there devices useful.
+I always help people make their devices useful.
